@@ -15,7 +15,7 @@ C:\Users\arawa\Downloads\Irctc-PubSub-Stream-To-BigQuery-Project\Irctc-PubSub-St
 
 ### Create a BigqueryTable:
 
-![My Image](Image/Bigquery.png)
+![My Image](Image/BigQuery.png)
 
 ### Put your code in Cloud Storage:
 
