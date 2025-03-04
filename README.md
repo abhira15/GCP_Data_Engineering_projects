@@ -11,7 +11,7 @@ C:\Users\arawa\Downloads\Irctc-PubSub-Stream-To-BigQuery-Project\Irctc-PubSub-St
 
 ### Set the IAM Role :
 
-![My Image](Image/IAM.png)
+![My Image](Image/IAM_ROLES.png)
 
 ### Create a BigqueryTable:
 
@@ -19,7 +19,7 @@ C:\Users\arawa\Downloads\Irctc-PubSub-Stream-To-BigQuery-Project\Irctc-PubSub-St
 
 ### Put your code in Cloud Storage:
 
-![My Image](Image/Cloud Storage.png)
+![My Image](Image/Cloud_Storage.png)
 
 ### Create a Dataflow using Template:
 
