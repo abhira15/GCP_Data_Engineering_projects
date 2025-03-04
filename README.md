@@ -9,4 +9,18 @@ C:\Users\arawa\Downloads\Irctc-PubSub-Stream-To-BigQuery-Project\Irctc-PubSub-St
 
 C:\Users\arawa\Downloads\Irctc-PubSub-Stream-To-BigQuery-Project\Irctc-PubSub-Stream-To-BigQuery-Project>python irctc_mock_data_to_pubsub.py
 
-![My Image](Image/BigQuery.png)
+### Set the IAM Role :
+
+![My Image](Image/IAM.png)
+
+### Create a BigqueryTable:
+
+![My Image](Image/Bigquery.png)
+
+### Put your code in Cloud Storage:
+
+![My Image](Image/Cloud Storage.png)
+
+### Create a Dataflow using Template:
+
+![My Image](Image/Dataflow_graph.png)
